@@ -9,6 +9,6 @@ This repository contains a machine learning project aimed at predicting crop yie
 
 Programming Language: Python
 
-Libraries & Frameworks: Pandas, NumPy, Scikit-Learn, Flask
+Libraries & Frameworks: Pandas, NumPy, Scikit-Learn
 
-Web Development: HTML, Flask.
+Web Development: HTML.
